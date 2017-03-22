@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">Avatar</string>
+  <string name="take_picture">拍照</string>
+  <string name="pick_from_album">从相册选择</string>
+  <string name="cancel">取消</string>
+  <string name="album_name">Avatar</string>
+</resources>
